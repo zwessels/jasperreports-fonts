@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.jasper</groupId>
+    <artifactId>jasperreports-fonts</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>com.jasper:jasperreports-fonts</name>
+    <description>
+        Fonts required by JasperReports on *nix based systems. 
+    </description>
+    <url>https://github.com/pokkie/jasperreports-fonts</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>pokkie</name>
+            <id>admin</id>
+            <email>pokkie@users.noreply.github.com</email>
+            <organization>private</organization>
+            <roles>
+                <role>contributor</role>
+            </roles>
+            <timezone>1</timezone>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git@github.com:pokkie/jasperreports-fonts.git</connection>
+        <developerConnection>scm:git:git@github.com:pokkie/jasperreports-fonts.git</developerConnection>
+        <url>git@github.com:pokkie/jasperreports-fonts.git</url>
+    </scm>
+
+</project>
+
